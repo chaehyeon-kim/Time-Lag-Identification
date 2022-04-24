@@ -1,5 +1,5 @@
 ## Time-Lag-Identification
-Time-Lag-Identification is a repository of codes and experiment results for explanation for graph convolutional networks.
+Time-Lag-Identification is a repository of codes and experiment results improving deep learning models considering time lag between explanatory and response variables.
 
 ### Publications
 See the following publications for examples of this code in use:
